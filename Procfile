@@ -1,0 +1,1 @@
+botslm: python "main.py"
