@@ -3,10 +3,10 @@ from PIL import Image, ImageDraw, ImageFont
 import time
 
 
-consumer_key = 'vU0gv3wUphY5c2VlGDVZVgTvY'
-consumer_secret = 'oWQqr8I8bVY33pMzTykfcBXHpdAnEdGyNliov6h6bnIusAN6cJ'
-access_token = '1464361373228490759-gV1kqJCALkKFkG63mIoNn9Ha144ox6'
-access_token_secret = 'QQMdzMvl6XN9UILsbkB0K9UQutaXxt86aUD3rJaLm4VyZ'
+consumer_key = #Consumer key
+consumer_secret = # Consumer secret
+access_token = # Access token
+access_token_secret = # Acess token secret
 
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token, access_token_secret)
